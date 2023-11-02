@@ -1,6 +1,9 @@
 # Weetz
  Weetz is a pinterest video downloader.
 
+## ⚠️ Disclaimer
+The owner api has built its service on top of Heroku. Since Heroku went fully paid months ago, this app can no longer download videos... :(
+
 ## Screenshots
 ![screenshot](https://github.com/HDG-Gabriel/weetz/blob/main/screenshots/banner.png)
 
